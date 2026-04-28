@@ -5,7 +5,7 @@
 ## SYSTEM ENVIRONMENT
 * OS: Ubuntu
 * Python Script: bank.py
-* Link Youtube Video: 
+* Link Youtube Video: https://youtu.be/76C3l08Awew?si=_JWPcfp4PhBoFq4Q
 
 ---
 # 1. INTRODUCTION
