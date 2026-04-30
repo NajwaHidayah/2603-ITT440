@@ -1,7 +1,7 @@
 # 🚀 CONCURRENT AND PARALLEL FOOD ORDERING SYSTEM ANALYZING PERFORMANCE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue">
+  <img src="https://img.shields.io/badge/Python-3.8-blue">
   <img src="https://img.shields.io/badge/Status-Completed-green">
   <img src="https://img.shields.io/badge/Performance-Optimized-orange">
 </p>
@@ -117,7 +117,7 @@ with Pool(processes=cores) as pool:
 <p align="center"> <img src="graph.png" width="600"> </p>
 
 ---
-##🔍 Analysis
+## 🔍 Analysis
 - Sequential → processes tasks one by one
 - Concurrent → improves speed using threads
 - Parallel → uses multiple CPU cores for true parallel execution
